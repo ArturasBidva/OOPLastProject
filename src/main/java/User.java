@@ -35,4 +35,13 @@ public class User {
     public void setPersonalnumber(int personalnumber) {
         this.personalnumber = personalnumber;
     }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                ", personalnumber=" + personalnumber +
+                '}';
+    }
 }

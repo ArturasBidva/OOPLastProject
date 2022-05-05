@@ -1,17 +1,1 @@
-[
-  {
-    "name": "Arturas",
-    "surname": "Bidva",
-    "personalnumber": 503030540
-  },
-  {
-    "name": "Jonas",
-    "surname": "Jonaitis",
-    "personalnumber": 52030500
-  },
-  {
-    "name": "Tomas",
-    "surname": "Randomas",
-    "personalnumber": 25252040
-  }
-]
+[{"name":"Arturas","surname":"Bidva","personalnumber":30543040},{"name":"Jonas","surname":"Jonaitis","personalnumber":505040},{"name":"Tadas","surname":"Blinda","personalnumber":30204030},{"name":"Tadukas","surname":"Berankis","personalnumber":2005202},{"name":"Jokubas","surname":"Izraelis","personalnumber":305304300}]
